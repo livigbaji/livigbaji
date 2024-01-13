@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Typescript<br>👯 I’m looking to collaborate on Golang projects<br>🤝 I’m looking for help with Elixir<br>🌱 I’m currently learning Elixir<br>💬 Ask me about Typescript<br>⚡ Fun fact
+🔭 I’m currently working on Typescript<br>👯 I’m looking to collaborate on Golang projects<br>🤝 I’m looking for help with Elixir<br>🌱 I’m currently learning Elixir<br>💬 Ask me about Typescript<br>
 
 
 ## 🌐 Socials:
